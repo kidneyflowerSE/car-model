@@ -1,0 +1,87 @@
+[
+    {
+      "city_mpg": 23,
+      "class": "compact car",
+      "combination_mpg": 24,
+      "cylinders": 4,
+      "displacement": 1.6,
+      "drive": "FWD",
+      "fuel_type": "gas",
+      "highway_mpg": 26,
+      "make": "Toyota",
+      "model": "Corolla",
+      "transmission": "automatic",
+      "year": 1993
+    },
+    {
+      "city_mpg": 28,
+      "class": "midsize car",
+      "combination_mpg": 30,
+      "cylinders": 4,
+      "displacement": 2.0,
+      "drive": "FWD",
+      "fuel_type": "gas",
+      "highway_mpg": 34,
+      "make": "Honda",
+      "model": "Civic",
+      "transmission": "automatic",
+      "year": 2020
+    },
+    {
+      "city_mpg": 20,
+      "class": "fullsize sedan",
+      "combination_mpg": 22,
+      "cylinders": 6,
+      "displacement": 3.5,
+      "drive": "AWD",
+      "fuel_type": "gas",
+      "highway_mpg": 26,
+      "make": "Nissan",
+      "model": "Maxima",
+      "transmission": "CVT",
+      "year": 2018
+    },
+    {
+      "city_mpg": 25,
+      "class": "compact SUV",
+      "combination_mpg": 27,
+      "cylinders": 4,
+      "displacement": 2.5,
+      "drive": "AWD",
+      "fuel_type": "hybrid",
+      "highway_mpg": 30,
+      "make": "Ford",
+      "model": "Escape Hybrid",
+      "transmission": "automatic",
+      "year": 2022
+    },
+    {
+      "city_mpg": 16,
+      "class": "pickup truck",
+      "combination_mpg": 18,
+      "cylinders": 8,
+      "displacement": 5.7,
+      "drive": "4WD",
+      "fuel_type": "gas",
+      "highway_mpg": 20,
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "transmission": "automatic",
+      "year": 2019
+    },
+    {
+      "city_mpg": 100,
+      "class": "electric car",
+      "combination_mpg": 105,
+      "cylinders": 0,
+      "displacement": 0,
+      "drive": "AWD",
+      "fuel_type": "electric",
+      "highway_mpg": 110,
+      "make": "Tesla",
+      "model": "Model 3",
+      "transmission": "automatic",
+      "year": 2023
+    }
+  ]
+  

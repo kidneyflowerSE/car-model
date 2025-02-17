@@ -1,86 +1,206 @@
 [
-    {
-        "make": "Mercedes-Benz",
-        "model": "GLE",
-        "year": 2019,
-        "class": "electric SUV",
-        "fuel_type": "hybrid",
-        "transmission": "automatic",
-        "drive": "FWD",
-        "cylinders": 6,
-        "displacement": 2.7,
-        "city_mpg": 20,
-        "highway_mpg": 34,
-        "combination_mpg": 27.0
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "variant": "C 300 AMG",
+    "year": 2024,
+    "class": "Luxury Sedan",
+    "price": 55000,
+    "currency": "USD",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "drive": "RWD",
+    "horsepower": 255,
+    "torque": 400,
+    "acceleration_0_100_kmh": 6.0,
+    "top_speed_kmh": 250,
+    "fuel_consumption_l_100km": {
+      "city": 8.5,
+      "highway": 6.0,
+      "combined": 7.2
     },
-    {
-        "make": "Mercedes-Benz",
-        "model": "GLS",
-        "year": 2023,
-        "class": "van",
-        "fuel_type": "hybrid",
-        "transmission": "automatic",
-        "drive": "RWD",
-        "cylinders": 8,
-        "displacement": 3.3,
-        "city_mpg": 19,
-        "highway_mpg": 33,
-        "combination_mpg": 26.0
+    "engine": {
+      "type": "Inline-4 Turbo",
+      "displacement": 2.0,
+      "cylinders": 4
     },
-    {
-        "make": "Mercedes-Benz",
-        "model": "C-Class",
-        "year": 2023,
-        "class": "sports coupe",
-        "fuel_type": "gas",
-        "transmission": "automatic",
-        "drive": "FWD",
-        "cylinders": 4,
-        "displacement": 2.3,
-        "city_mpg": 29,
-        "highway_mpg": 30,
-        "combination_mpg": 29.5
+    "dimensions_mm": {
+      "length": 4751,
+      "width": 1820,
+      "height": 1437,
+      "wheelbase": 2865
     },
-    {
-        "make": "Mercedes-Benz",
-        "model": "GLC",
-        "year": 2020,
-        "class": "sports coupe",
-        "fuel_type": "hybrid",
-        "transmission": "automatic",
-        "drive": "RWD",
-        "cylinders": 6,
-        "displacement": 3.2,
-        "city_mpg": 18,
-        "highway_mpg": 30,
-        "combination_mpg": 24.0
+    "weight_kg": 1600,
+    "seating_capacity": 5,
+    "cargo_capacity_l": 455,
+    "infotainment": {
+      "screen_size_inch": 11.9,
+      "mbux_system": true,
+      "apple_carplay": true,
+      "android_auto": true
     },
-    {
-        "make": "Mercedes-Benz",
-        "model": "EQE",
-        "year": 2019,
-        "class": "luxury sedan",
-        "fuel_type": "hybrid",
-        "transmission": "automatic",
-        "drive": "FWD",
-        "cylinders": 6,
-        "displacement": 3.9,
-        "city_mpg": 21,
-        "highway_mpg": 28,
-        "combination_mpg": 24.5
+    "safety_features": {
+      "airbags": 7,
+      "adaptive_cruise_control": true,
+      "blind_spot_monitor": true,
+      "lane_keep_assist": true,
+      "automatic_emergency_braking": true
     },
-    {
-        "make": "Mercedes-Benz",
-        "model": "E-Class",
-        "year": 2021,
-        "class": "sports coupe",
-        "fuel_type": "gas",
-        "transmission": "automatic",
-        "drive": "AWD",
-        "cylinders": 4,
-        "displacement": 3.8,
-        "city_mpg": 23,
-        "highway_mpg": 25,
-        "combination_mpg": 24.0
-    }
+    "exterior_features": {
+      "led_headlights": true,
+      "panoramic_sunroof": true,
+      "alloy_wheels_size_inch": 19
+    },
+    "interior_features": {
+      "ambient_lighting": true,
+      "heated_seats": true,
+      "ventilated_seats": true,
+      "leather_seats": true
+    },
+    "warranty": {
+      "years": 4,
+      "mileage_km": 80000
+    },
+    "images": [
+      "https://example.com/mercedes-c300-front.jpg",
+      "https://example.com/mercedes-c300-side.jpg",
+      "https://example.com/mercedes-c300-interior.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "variant": "E 350 4MATIC",
+    "year": 2024,
+    "class": "Luxury Sedan",
+    "price": 67000,
+    "currency": "USD",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "drive": "AWD",
+    "horsepower": 295,
+    "torque": 420,
+    "acceleration_0_100_kmh": 5.8,
+    "top_speed_kmh": 250,
+    "fuel_consumption_l_100km": {
+      "city": 9.0,
+      "highway": 6.5,
+      "combined": 7.8
+    },
+    "engine": {
+      "type": "Inline-4 Turbo + Mild Hybrid",
+      "displacement": 2.0,
+      "cylinders": 4
+    },
+    "dimensions_mm": {
+      "length": 4945,
+      "width": 1880,
+      "height": 1460,
+      "wheelbase": 2960
+    },
+    "weight_kg": 1700,
+    "seating_capacity": 5,
+    "cargo_capacity_l": 540,
+    "infotainment": {
+      "screen_size_inch": 12.8,
+      "mbux_system": true,
+      "apple_carplay": true,
+      "android_auto": true
+    },
+    "safety_features": {
+      "airbags": 8,
+      "adaptive_cruise_control": true,
+      "blind_spot_monitor": true,
+      "lane_keep_assist": true,
+      "automatic_emergency_braking": true
+    },
+    "exterior_features": {
+      "led_headlights": true,
+      "panoramic_sunroof": true,
+      "alloy_wheels_size_inch": 20
+    },
+    "interior_features": {
+      "ambient_lighting": true,
+      "heated_seats": true,
+      "ventilated_seats": true,
+      "leather_seats": true
+    },
+    "warranty": {
+      "years": 4,
+      "mileage_km": 80000
+    },
+    "images": [
+      "https://example.com/mercedes-e350-front.jpg",
+      "https://example.com/mercedes-e350-side.jpg",
+      "https://example.com/mercedes-e350-interior.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "variant": "S 580 4MATIC",
+    "year": 2024,
+    "class": "Luxury Sedan",
+    "price": 120000,
+    "currency": "USD",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "drive": "AWD",
+    "horsepower": 496,
+    "torque": 700,
+    "acceleration_0_100_kmh": 4.4,
+    "top_speed_kmh": 250,
+    "fuel_consumption_l_100km": {
+      "city": 11.0,
+      "highway": 7.8,
+      "combined": 9.5
+    },
+    "engine": {
+      "type": "V8 Biturbo + Mild Hybrid",
+      "displacement": 4.0,
+      "cylinders": 8
+    },
+    "dimensions_mm": {
+      "length": 5289,
+      "width": 1954,
+      "height": 1503,
+      "wheelbase": 3216
+    },
+    "weight_kg": 2100,
+    "seating_capacity": 5,
+    "cargo_capacity_l": 550,
+    "infotainment": {
+      "screen_size_inch": 12.8,
+      "mbux_system": true,
+      "apple_carplay": true,
+      "android_auto": true
+    },
+    "safety_features": {
+      "airbags": 10,
+      "adaptive_cruise_control": true,
+      "blind_spot_monitor": true,
+      "lane_keep_assist": true,
+      "automatic_emergency_braking": true
+    },
+    "exterior_features": {
+      "led_headlights": true,
+      "panoramic_sunroof": true,
+      "alloy_wheels_size_inch": 21
+    },
+    "interior_features": {
+      "ambient_lighting": true,
+      "heated_seats": true,
+      "ventilated_seats": true,
+      "leather_seats": true
+    },
+    "warranty": {
+      "years": 5,
+      "mileage_km": 100000
+    },
+    "images": [
+      "https://example.com/mercedes-s580-front.jpg",
+      "https://example.com/mercedes-s580-side.jpg",
+      "https://example.com/mercedes-s580-interior.jpg"
+    ]
+  }
 ]

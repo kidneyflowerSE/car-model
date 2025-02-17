@@ -69,6 +69,74 @@
   },
   {
     "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "variant": "C 300 AMG",
+    "year": 2024,
+    "class": "Luxury Sedan",
+    "price": 55000,
+    "currency": "USD",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "drive": "RWD",
+    "horsepower": 255,
+    "torque": 400,
+    "acceleration_0_100_kmh": 6.0,
+    "top_speed_kmh": 250,
+    "fuel_consumption_l_100km": {
+      "city": 8.5,
+      "highway": 6.0,
+      "combined": 7.2
+    },
+    "engine": {
+      "type": "Inline-4 Turbo",
+      "displacement": 2.0,
+      "cylinders": 4
+    },
+    "dimensions_mm": {
+      "length": 4751,
+      "width": 1820,
+      "height": 1437,
+      "wheelbase": 2865
+    },
+    "weight_kg": 1600,
+    "seating_capacity": 5,
+    "cargo_capacity_l": 455,
+    "infotainment": {
+      "screen_size_inch": 11.9,
+      "mbux_system": true,
+      "apple_carplay": true,
+      "android_auto": true
+    },
+    "safety_features": {
+      "airbags": 7,
+      "adaptive_cruise_control": true,
+      "blind_spot_monitor": true,
+      "lane_keep_assist": true,
+      "automatic_emergency_braking": true
+    },
+    "exterior_features": {
+      "led_headlights": true,
+      "panoramic_sunroof": true,
+      "alloy_wheels_size_inch": 19
+    },
+    "interior_features": {
+      "ambient_lighting": true,
+      "heated_seats": true,
+      "ventilated_seats": true,
+      "leather_seats": true
+    },
+    "warranty": {
+      "years": 4,
+      "mileage_km": 80000
+    },
+    "images": [
+      "https://example.com/mercedes-c300-front.jpg",
+      "https://example.com/mercedes-c300-side.jpg",
+      "https://example.com/mercedes-c300-interior.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
     "model": "E-Class",
     "variant": "E 350 4MATIC",
     "year": 2024,
